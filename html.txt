@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avião MH370</title>
+</head>
+<body>
+
+
+    <h1>Avião MH370</h1>
+    <h2>Voo Malaysia Airlines 370</h2>
+
+
+    <p>
+        Malaysia Airlines 370 ou Malaysia Airlines MH370 foi a identificação da rota aérea
+        de passageiros regular e internacional entre Kuala Lumpur, na Malásia, e Pequim,
+        na China. A rota é operada pela companhia aérea Malaysia Airlines que, a partir de
+        14 de março de 2014, substituiu sua identificação para Malaysia Airlines MH318.
+    </p>
+
+
+    <p>
+        Na madrugada de 8 de março de 2014, no horário local (tarde de 7 de março,
+        horário UTC), a aeronave que realizava esta rota levando 227 passageiros e
+        12 tripulantes, desapareceu dos radares após aproximadamente uma hora de voo
+        enquanto sobrevoava o Golfo da Tailândia, no Mar da China.
+    </p>
+
+
+    <p>
+        Até o instante do desaparecimento dos monitores de radar, a tripulação não havia
+        relatado nenhuma anomalia com o voo. O sistema ACARS do avião também não enviou
+        mensagens por satélite, o que deveria ocorrer automaticamente no caso de alguma falha.
+    </p>
+
+
+    <p>
+        Em 24 de março de 2014, o governo malaio comunicou oficialmente que o voo caiu no mar
+        no Oceano Índico sem deixar sobreviventes. Segundo registros feitos por satélites,
+        o avião voou por várias horas após desaparecer dos radares, até esgotar o combustível,
+        com todos os seus sistemas de comunicação desativados.
+    </p>
+
+
+    <p>
+        Mesmo após três anos de extensas buscas, comandadas pelos governos da Austrália,
+        da Malásia e da China no período de 2014 a 2017, os destroços da aeronave nunca
+        foram localizados, tornando o caso um dos maiores mistérios da aviação civil contemporânea.
+    </p>
+
+
+</body>
+</html>
